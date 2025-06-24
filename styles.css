@@ -1,0 +1,16 @@
+/* styles.css */
+body {
+  margin: 0;
+  background: #000;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  overflow: hidden;
+  user-select: none;
+}
+canvas {
+  background: #111;
+  border: 2px solid #444;
+  display: block;
+}
